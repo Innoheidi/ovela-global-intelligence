@@ -1,0 +1,4 @@
+﻿score;name;industry;country;need;source;reason;next
+"100";"Esimerkki Teollisuus Oy";"teollisuus ja vienti";"Suomi";"etsii uusia b2b-asiakkaita ja myynnin automaatiota";"oma havainto";"Osuvat termit: teollisuus, vienti, b2b, automaatio";"Varmista yrityksen tarve ja etsi oikea päättäjä ennen yhteydenottoa"
+"90";"Esimerkki Automaatio AB";"teollisuusautomaatio";"Ruotsi";"kasvaa vientimarkkinoilla ja kehittää myyntiä";"oma havainto";"Osuvat termit: teollisuus, vienti, automaatio, myynti";"Varmista yrityksen tarve ja etsi oikea päättäjä ennen yhteydenottoa"
+"20";"Esimerkki Kuluttajakauppa Oy";"vähittäiskauppa";"Suomi";"verkkokaupan markkinointi";"oma havainto";"Vähän osuvia termejä – tarkista soveltuvuus";"Varmista yrityksen tarve ja etsi oikea päättäjä ennen yhteydenottoa"
